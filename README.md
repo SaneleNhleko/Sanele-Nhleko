@@ -1,6 +1,6 @@
 # Smart Pantry Manager (Android)
 
-**Student Name:** ROSE [LAST NAME]  
+**Student Name:** SANELE [LAST NAME]  
 **Module:** Mobile App Development 700 - Practical Assignment
 
 ## Concept
